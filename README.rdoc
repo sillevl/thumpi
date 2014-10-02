@@ -1,4 +1,4 @@
-== Thumpi
+== ThumPi
 
 Wild Thumper Project using:
 
