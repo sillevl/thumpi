@@ -32,3 +32,12 @@ jQuery ->
 ]
 
   myNewChart = new Chart($("#voltagechart").get(0).getContext("2d")).Doughnut(data)
+
+jQuery ->
+	g = new JustGage({
+	   id: "gauge",
+	   value: 67,
+	   min: 0,
+	   max: 100,
+	   title: ""
+	});

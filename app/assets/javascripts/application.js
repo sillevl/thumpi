@@ -16,5 +16,7 @@
 //= require turbolinks
 //= require_tree .
 //= require Chart
+//= require raphael
+//= require justgage
 
 $(function(){ $(document).foundation(); });

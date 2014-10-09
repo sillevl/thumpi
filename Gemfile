@@ -41,3 +41,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin]
 
 gem 'foundation-rails'
 gem 'chart-js-rails'
+gem 'justgage-rails'
